@@ -1,6 +1,6 @@
 // 域名前缀映射配置
 const domain_mappings = {
-  'blog.renzhen.fun': 'wrz-lol.',
+  'fandai.3045387398.workers.dev': 'tool.'
 //例如：
 //'gitea.072103.xyz': 'gitea.',
 //则你设置Worker路由为gitea.*都将会反代到gitea.072103.xyz
